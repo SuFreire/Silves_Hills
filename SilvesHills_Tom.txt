@@ -55,18 +55,19 @@
             <p class="text-2xl md:text-3xl font-light tracking-wide text-yellow-100 drop-shadow-lg" data-pt="A sua vida começa aqui" data-en="Your life starts here">A sua vida começa aqui</p>
         </div>
     </section>
-
+  </div>
+    </section>
     <section class="py-20 px-4">
         <div class="max-w-4xl mx-auto text-center">
             <h2 class="font-playfair text-4xl md:text-5xl font-bold gold-text mb-8 drop-shadow-lg" data-pt="Luxo e Sofisticação" data-en="Luxury and Sophistication">Luxo e Sofisticação</h2>
             <p class="text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto" data-pt="Descubra um novo conceito de viver no Silves Hills. Moradias sustentáveis projetadas com os mais altos padrões de qualidade, equipadas com piscinas aquecidas e inseridas num ambiente de tranquilidade e elegância. Cada detalhe foi pensado para proporcionar o máximo conforto e bem-estar à sua família." data-en="Discover a new concept of living at Silves Hills. Sustainable homes designed with the highest quality standards, equipped with heated pools and set in an environment of tranquility and elegance. Every detail has been thought out to provide maximum comfort and well-being for your family.">Descubra um novo conceito de viver no Silves Hills. Moradias sustentáveis projetadas com os mais altos padrões de qualidade, equipadas com piscinas aquecidas e inseridas num ambiente de tranquilidade e elegância. Cada detalhe foi pensado para proporcionar o máximo conforto e bem-estar à sua família.</p>
 <div class="max-w-4xl mx-auto text-center">
        </div>
-</section>
-     
-    <h2 class="font-playfair text-4xl md:text-5xl font-bold gold-text mb-8 drop-shadow-lg text-center" data-pt="Arquitetura Exclusiva" data-en="Exclusive Architecture">Arquitetura Exclusiva</h2>
+<section>
+   
+        <h2 class="font-playfair text-4xl md:text-5xl font-bold gold-text mb-8 drop-shadow-lg" data-pt="Arquitetura Exclusiva" data-en="Exclusive Architecture">Arquitetura Exclusiva</h2>
 
-    <p class="text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto" data-pt="Silves Hills, um destino premium no Algarve. Todas as moradias têm piscina aquecida e um deck privativo. Projetada para integrar os espaços interiores e exteriores, as moradias dispõem de janelas do chão ao teto que ampliam a área de estar para o ambiente natural ao redor.
+        <p class="text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto" data-pt="Silves Hills, um destino premium no Algarve. Todas as moradias têm piscina aquecida e um deck privativo. Projetada para integrar os espaços interiores e exteriores, as moradias dispõem de janelas do chão ao teto que ampliam a área de estar para o ambiente natural ao redor.
 
 No interior, as moradia apresentam uma sala de estar e jantar em open space, cozinha totalmente equipada, quartos amplos, casas de banho elegantes e uma divisão adicional multifuncional — ideal como escritório, quarto de hóspedes ou estúdio criativo. Há ainda uma lavandaria independente e áreas de arrumação que asseguram o conforto no dia a dia. O aquecimento por piso radiante está incluído nas casas de banho.
 
@@ -74,116 +75,111 @@ Cada moradia dispõe de dois lugares de estacionamento privativos, ligação à 
 
 Inside, the villas have an open-plan living and dining room, a fully equipped kitchen, spacious bedrooms, elegant bathrooms, and a versatile multi-purpose room—ideal for an office, guest bedroom, or creative studio. There is also a separate laundry room and storage areas to ensure day-to-day comfort. Underfloor heating is included in the bathrooms.
 
-Each vil
-    <divla includes two private parking spaces, a fiber-optic internet connection, and a stylish furniture package with a 50% discount during the pre-construction phase."></p>
- class="max-w-4xl mx-auto text-center">
+Each villa includes two private parking spaces, a fiber-optic internet connection, and a stylish furniture package with a 50% discount during the pre-construction phase."></p>
     </div>
 </section>
+<section id="propriedades" class="py-20 px-4 bg-stone-100">
+    <div class="max-w-6xl mx-auto">
+        <h3 class="font-playfair text-3xl md:text-4xl font-bold text-center gold-text mb-12 drop-shadow-lg" data-pt="Galeria" data-en="Gallery">Galeria</h3>
 
-
-    <section id="propriedades" class="py-20 px-4 bg-stone-100">
-        <div class="max-w-6xl mx-auto">
-            <h3 class="font-playfair text-3xl md:text-4xl font-bold text-center gold-text mb-12 drop-shadow-lg" data-pt="Galeria" data-en="Gallery">Galeria</h3>
-            
-            <div class="mb-12 grid grid-cols-1 lg:grid-cols-2 gap-8 items-center rounded-2xl bg-white luxury-shadow border border-yellow-500/20 p-6">
-                <div class="h-96 rounded-xl overflow-hidden relative">
-                    <img src="https://ik.imagekit.io/ij9blp5q7/Foto%2012.jpg?updatedAt=" alt="Moradia Duplex T3+1" class="w-full h-full object-cover transition-transform duration-500 hover:scale-105">
-                    <div class="absolute top-4 left-4 px-4 py-2 bg-black/60 rounded-full backdrop-blur-sm">
-                        <span class="text-white text-sm font-medium uppercase tracking-wide" data-pt="Destaque" data-en="Featured">Destaque</span>
-                    </div>
-                </div>
-                
-                <div class="p-4">
-                    <h4 class="font-playfair text-3xl font-bold text-gray-900 mb-4" data-pt="Moradia Duplex T3+1" data-en="Duplex Villa T3+1">Moradia Duplex T3+1</h4>
-                    <span class="text-3xl font-bold gold-text mb-6 inline-block">1.199.999€</span>
-                    
-                    <ul class="grid grid-cols-2 md:grid-cols-3 gap-6 text-center mb-6">
-                        <li class="flex flex-col items-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-yellow-500 mb-2">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v4.875h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21.75h7.5"/>
-                            </svg>
-                            <span class="text-xs text-gray-600 uppercase" data-pt="Área" data-en="Area">Área</span>
-                            <span class="font-semibold text-gray-800 text-sm">150m²</span>
-                        </li>
-                        <li class="flex flex-col items-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-yellow-500 mb-2">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 7.5l-.625 10.632a2.25 2.25 0 01-2.247 2.118H6.622a2.25 2.25 0 01-2.247-2.118L3.75 7.5m6 4.5l3 3m0-6l-3 3m-3-3l-3 3"/>
-                            </svg>
-                            <span class="text-xs text-gray-600 uppercase" data-pt="Quartos" data-en="Bedrooms">Quartos</span>
-                            <span class="font-semibold text-gray-800 text-sm">3+1</span>
-                        </li>
-                        <li class="flex flex-col items-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-yellow-500 mb-2">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M15.182 15.182a4.5 4.5 0 01-6.364 0M21 12a9 9 0 11-18 0 9 9 0 0118 0zM9.75 9.75c0 .414-.168.75-.375.75S9 10.164 9 9.75 9.168 9 9.375 9s.375.336.375.75zm-.375 0h.008v.015h-.008V9.75zm5.625 0c0 .414-.168.75-.375.75s-.375-.336-.375-.75.168-.75.375-.75.375.336.375.75zm-.375 0h.008v.015h-.008V9.75z" />
-                            </svg>
-                            <span class="text-xs text-gray-600 uppercase" data-pt="Casas de Banho" data-en="Bathrooms">Casas de Banho</span>
-                            <span class="font-semibold text-gray-800 text-sm">4</span>
-                        </li>
-                        <li class="flex flex-col items-center">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-yellow-500 mb-2">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5h.007M12 15h.007M4.5 15h.007M4.5 19.5h.007M19.5 19.5h.007M10.5 7.5V4.5a2.25 2.25 0 012.25-2.25h1.5a2.25 2.25 0 012.25 2.25v3a2.25 2.25 0 01-2.25 2.25H12.75a.75.75 0 00-.75.75V15m0 0a2 2 0 100 4 2 2 0 000-4z"/>
-                            </svg>
-                            <span class="text-xs text-gray-600 uppercase" data-pt="Lote" data-en="Plot">Lote</span>
-                            <span class="font-semibold text-gray-800 text-sm">483m²</span>
-                        </li>
-                    </ul>
-
-                    <p class="text-gray-700 leading-relaxed text-sm mb-6" data-pt="Moderna moradia em duplex T3+1 oferece 150 m² de área interior, complementada por dois decks privativos de 69 m² e 17 m² e uma piscina aquecida de 21 m²." data-en="This modern duplex villa T3+1 offers 150 m² of interior area, complemented by two private decks of 69 m² and 17 m² and a 21 m² heated swimming pool."</p>
-                    
+        <div class="mb-12 grid grid-cols-1 lg:grid-cols-2 gap-8 items-center rounded-2xl bg-white luxury-shadow border border-yellow-500/20 p-6">
+            <div class="h-96 rounded-xl overflow-hidden relative">
+                <img src="https://ik.imagekit.io/ij9blp5q7/Foto%2012.jpg?updatedAt=" alt="Moradia Duplex T3+1" class="w-full h-full object-cover transition-transform duration-500 hover:scale-105">
+                <div class="absolute top-4 left-4 px-4 py-2 bg-black/60 rounded-full backdrop-blur-sm">
+                    <span class="text-white text-sm font-medium uppercase tracking-wide" data-pt="Destaque" data-en="Featured">Destaque</span>
                 </div>
             </div>
-            
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <div class="bg-white rounded-2xl luxury-shadow border border-yellow-500/20 hover:border-yellow-400/40 transition-all duration-300 overflow-hidden">
-                    <div class="h-64 relative">
-                        <img src="https://ik.imagekit.io/ij9blp5q7/Foto%201.jpg?updatedAt=" alt="Moradia T1+1" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
-                        <div class="absolute bottom-4 left-4 px-3 py-1 bg-black/60 rounded-full backdrop-blur-sm">
-                            <span class="text-white text-sm font-medium" data-pt="Preço inicial" data-en="Starting price">Preço inicial</span>
-                        </div>
-                    </div>
-                    <div class="p-6">
-                        <h4 class="font-playfair text-xl font-bold text-gray-900 mb-2">Moradia T1+1</h4>
-                        <p class="text-gray-600 text-sm" data-pt="Charmosa moradia T1+1 oferece 80 m² de área interior, complementada por um deck privativo de 32 m² e uma piscina aquecida de 15 m²." data-en="This charming 1+1 bedroom villa offers 80 m² of indoor area, complemented by a 32 m² private deck and a 15 m² heated swimming pool."></p>
-                        <div class="mt-4 flex justify-between items-center">
-                            <span class="gold-text text-xl font-bold">649.999€</span>
-                        </div>
+
+            <div class="p-4">
+                <h4 class="font-playfair text-3xl font-bold text-gray-900 mb-4" data-pt="Moradia Duplex T3+1" data-en="Duplex Villa T3+1">Moradia Duplex T3+1</h4>
+                <span class="text-3xl font-bold gold-text mb-6 inline-block">1.199.999€</span>
+
+                <ul class="grid grid-cols-2 md:grid-cols-3 gap-6 text-center mb-6">
+                    <li class="flex flex-col items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-yellow-500 mb-2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v4.875h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21.75h7.5"/>
+                        </svg>
+                        <span class="text-xs text-gray-600 uppercase" data-pt="Área" data-en="Area">Área</span>
+                        <span class="font-semibold text-gray-800 text-sm">150m²</span>
+                    </li>
+                    <li class="flex flex-col items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-yellow-500 mb-2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 7.5l-.625 10.632a2.25 2.25 0 01-2.247 2.118H6.622a2.25 2.25 0 01-2.247-2.118L3.75 7.5m6 4.5l3 3m0-6l-3 3m-3-3l-3 3"/>
+                        </svg>
+                        <span class="text-xs text-gray-600 uppercase" data-pt="Quartos" data-en="Bedrooms">Quartos</span>
+                        <span class="font-semibold text-gray-800 text-sm">3+1</span>
+                    </li>
+                    <li class="flex flex-col items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-yellow-500 mb-2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M15.182 15.182a4.5 4.5 0 01-6.364 0M21 12a9 9 0 11-18 0 9 9 0 0118 0zM9.75 9.75c0 .414-.168.75-.375.75S9 10.164 9 9.75 9.168 9 9.375 9s.375.336.375.75zm-.375 0h.008v.015h-.008V9.75zm5.625 0c0 .414-.168.75-.375.75s-.375-.336-.375-.75.168-.75.375-.75.375.336.375.75zm-.375 0h.008v.015h-.008V9.75z" />
+                        </svg>
+                        <span class="text-xs text-gray-600 uppercase" data-pt="Casas de Banho" data-en="Bathrooms">Casas de Banho</span>
+                        <span class="font-semibold text-gray-800 text-sm">4</span>
+                    </li>
+                    <li class="flex flex-col items-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-yellow-500 mb-2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5h.007M12 15h.007M4.5 15h.007M4.5 19.5h.007M19.5 19.5h.007M10.5 7.5V4.5a2.25 2.25 0 012.25-2.25h1.5a2.25 2.25 0 012.25 2.25v3a2.25 2.25 0 01-2.25 2.25H12.75a.75.75 0 00-.75.75V15m0 0a2 2 0 100 4 2 2 0 000-4z"/>
+                        </svg>
+                        <span class="text-xs text-gray-600 uppercase" data-pt="Lote" data-en="Plot">Lote</span>
+                        <span class="font-semibold text-gray-800 text-sm">483m²</span>
+                    </li>
+                </ul>
+                <p class="text-gray-700 leading-relaxed text-sm mb-6" data-pt="Moderna moradia em duplex T3+1 oferece 150 m² de área interior, complementada por dois decks privativos de 69 m² e 17 m² e uma piscina aquecida de 21 m²." data-en="This modern duplex villa T3+1 offers 150 m² of interior area, complemented by two private decks of 69 m² and 17 m² and a 21 m² heated swimming pool."></p>
+            </div>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div class="bg-white rounded-2xl luxury-shadow border border-yellow-500/20 hover:border-yellow-400/40 transition-all duration-300 overflow-hidden">
+                <div class="h-64 relative">
+                    <img src="https://ik.imagekit.io/ij9blp5q7/Foto%201.jpg?updatedAt=" alt="Moradia T1+1" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+                    <div class="absolute bottom-4 left-4 px-3 py-1 bg-black/60 rounded-full backdrop-blur-sm">
+                        <span class="text-white text-sm font-medium" data-pt="Preço inicial" data-en="Starting price">Preço inicial</span>
                     </div>
                 </div>
-                <div class="bg-white rounded-2xl luxury-shadow border border-yellow-500/20 hover:border-yellow-400/40 transition-all duration-300 overflow-hidden">
-                    <div class="h-64 relative">
-                        <img src="https://ik.imagekit.io/ij9blp5q7/Foto%207.jpg?updatedAt=" alt="Moradia T2+1" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+                <div class="p-6">
+                    <h4 class="font-playfair text-xl font-bold text-gray-900 mb-2">Moradia T1+1</h4>
+                    <p class="text-gray-600 text-sm" data-pt="Charmosa moradia T1+1 oferece 80 m² de área interior, complementada por um deck privativo de 32 m² e uma piscina aquecida de 15 m²." data-en="This charming 1+1 bedroom villa offers 80 m² of indoor area, complemented by a 32 m² private deck and a 15 m² heated swimming pool."></p>
+                    <div class="mt-4 flex justify-between items-center">
+                        <span class="gold-text text-xl font-bold">649.999€</span>
                     </div>
-    <div class="p-6">
-        <h4 class="font-playfair text-xl font-bold text-gray-900 mb-2">Moradia T2+1</h4>
-        <p class="text-gray-600 text-sm" data-pt="Moradia T2+1 oferece 120 m² de área interior, complementada por um deck privativo de 53 m² e uma piscina aquecida de 15 m²" data-en="This T2+1 villa offers 120 m² of interior area, complemented by a 53 m² private deck and a 15 m² heated swimming pool."></p>
-        <div class="mt-4 flex justify-between items-center">
-            <span class="gold-text text-xl font-bold">795.999€</span>
-                   </div>
-    </div>
-</div>
+                </div>
+            </div>
 
-                <div class="bg-white rounded-2xl luxury-shadow border border-yellow-500/20 hover:border-yellow-400/40 transition-all duration-300 overflow-hidden">
-                    <div class="h-64 relative">
-                        <img src="https://ik.imagekit.io/ij9blp5q7/Foto%209.jpg?updatedAt=" alt="Moradia T3+1" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+            <div class="bg-white rounded-2xl luxury-shadow border border-yellow-500/20 hover:border-yellow-400/40 transition-all duration-300 overflow-hidden">
+                <div class="h-64 relative">
+                    <img src="https://ik.imagekit.io/ij9blp5q7/Foto%207.jpg?updatedAt=" alt="Moradia T2+1" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+                </div>
+                <div class="p-6">
+                    <h4 class="font-playfair text-xl font-bold text-gray-900 mb-2">Moradia T2+1</h4>
+                    <p class="text-gray-600 text-sm" data-pt="Moradia T2+1 oferece 120 m² de área interior, complementada por um deck privativo de 53 m² e uma piscina aquecida de 15 m²" data-en="This T2+1 villa offers 120 m² of interior area, complemented by a 53 m² private deck and a 15 m² heated swimming pool."></p>
+                    <div class="mt-4 flex justify-between items-center">
+                        <span class="gold-text text-xl font-bold">795.999€</span>
                     </div>
-                    <div class="p-6">
-                        <h4 class="font-playfair text-xl font-bold text-gray-900 mb-2">Moradia T3+1 XL</h4>
-                        <p class="text-gray-600 text-sm" data-pt="A moradia T3+1 XL oferece 190 m² de área interior, complementada por dois decks privativos de 69 m² e 17 m² e uma piscina aquecida de 21 m²." data-en="This T3+1 XL Villa offers 190 m² of interior area, complemented by two private decks of 69 m² and 17 m² and a 21 m² heated swimming pool."></p>
-                        <div class="mt-4 flex justify-between items-center">
-                            <span class="gold-text text-xl font-bold">1.199.999€</span>
-                        </div>
+                </div>
+            </div>
+
+            <div class="bg-white rounded-2xl luxury-shadow border border-yellow-500/20 hover:border-yellow-400/40 transition-all duration-300 overflow-hidden">
+                <div class="h-64 relative">
+                    <img src="https://ik.imagekit.io/ij9blp5q7/Foto%209.jpg?updatedAt=" alt="Moradia T3+1" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+                </div>
+                <div class="p-6">
+                    <h4 class="font-playfair text-xl font-bold text-gray-900 mb-2">Moradia T3+1 XL</h4>
+                    <p class="text-gray-600 text-sm" data-pt="A moradia T3+1 XL oferece 190 m² de área interior, complementada por dois decks privativos de 69 m² e 17 m² e uma piscina aquecida de 21 m²." data-en="This T3+1 XL Villa offers 190 m² of interior area, complemented by two private decks of 69 m² and 17 m² and a 21 m² heated swimming pool."></p>
+                    <div class="mt-4 flex justify-between items-center">
+                        <span class="gold-text text-xl font-bold">1.199.999€</span>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
 <section class="py-20 px-4">
     <div class="max-w-4xl mx-auto text-center">
         <h2 class="font-playfair text-4xl md:text-5xl font-bold gold-text mb-8 drop-shadow-lg" data-pt="Vida Elevada com Comodidades Completas" data-en="Elevated Living with Complete Amenities">Vida Elevada com Comodidades Completas</h2>
-        <p class="text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto" data-pt="Inserido numa propriedade privada de 65 hectares em zona de colina, Silves Hills é um condomínio turístico fechado com 154 moradias privadas e uma vasta gama de comodidades comuns. Os residentes terão acesso a ginásio, espaços para yoga interior e exterior, sauna e áreas desportivas para padel, ténis de praia, futebol e voleibol de praia. Para momentos de lazer ou trabalho, o empreendimento inclui trilhos para caminhadas e BTT, zonas exteriores de trabalho, um centro de co-working e internet de alta velocidade em todo o espaço. O clube com lounge e bar de piscina é complementado por restaurante, minimercado, unidades de arrumação e serviço de creche. A mobilidade sustentável é assegurada com aluguer de bicicletas e veículos elétricos." data-en="Silves Hills, a gated tourist condominium with 154 private villas, is set on a 65-hectare private hillside property and offers a wide range of common amenities. Residents will have access to a gym, indoor and outdoor yoga spaces, a sauna, and sports areas for padel, beach tennis, football, and beach volleyball. For moments of leisure or work, the development includes hiking and mountain biking trails, outdoor workspaces, a co-working center, and high-speed internet throughout the space. The club with its lounge and pool bar, is complemented by a restaurant, a mini-market, storage units, and a daycare service. Sustainable mobility is ensured with bicycle and electric vehicle rentals."></p>
+        <p class="text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto" data-pt="Inserido numa propriedade privada de 65 hectares em zona de colina, Silves Hills é um condomínio turístico fechado com 154 moradias privadas e uma vasta gama de comodidades comuns. Os residentes terão acesso a ginásio, espaços para yoga interior e exterior, sauna e áreas desportivas para padel, ténis de praia, futebol e voleibol de praia. Para momentos de lazer ou trabalho, o empreendimento inclui trilhos para caminhadas e BTT, zonas exteriores de trabalho, um centro de co-working e internet de alta velocidade em todo o espaço. O clube com lounge e bar de piscina é complementado por restaurante, minimercado, unidades de arrumação e serviço de creche. A mobilidade sustentável é assegurada com aluguer de bicicletas e veículos elétricos. Com segurança 24 horas, serviços de gestão de arrendamento e gestão integral do imóvel, Silves Hills oferece tranquilidade e conforto. " data-en="Silves Hills, a gated tourist condominium with 154 private villas, is set on a 65-hectare private hillside property and offers a wide range of common amenities. Residents will have access to a gym, indoor and outdoor yoga spaces, a sauna, and sports areas for padel, beach tennis, football, and beach volleyball. For moments of leisure or work, the development includes hiking and mountain biking trails, outdoor workspaces, a co-working center, and high-speed internet throughout the space. The club with its lounge and pool bar, is complemented by a restaurant, a mini-market, storage units, and a daycare service. Sustainable mobility is ensured with bicycle and electric vehicle rentals. With 24-hour security, rental management services, and full property management, Silves Hills offers peace of mind and comfort."></p>
 
-        <p class="mt-8 text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto font-bold" data-pt="Com segurança 24 horas, serviços de gestão de arrendamento e gestão integral do imóvel, Silves Hills oferece tranquilidade e conforto. O início da construção está previsto para o quarto trimestre de 2025 e finalização em 2027." data-en="With 24-hour security, rental management services, and full property management, Silves Hills offers peace of mind and comfort. Construction is scheduled to begin in the fourth quarter of 2025 and is expected to be completed in 2027."></p>
+        <p class="mt-8 text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto font-bold" data-pt="O início da construção está previsto para o quarto trimestre de 2025 e finalização em 2027." data-en=" Construction is scheduled to begin in the fourth quarter of 2025 and is expected to be completed in 2027."></p>
     </div>
 </section>
 
@@ -205,7 +201,7 @@ Each vil
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-whatsapp w-6 h-6 mr-3" viewBox="0 0 16 16">
                                 <path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .066 3.535.066 7.915c0 1.5.545 2.88 1.456 3.99A11.666 11.666 0 0 1 .157 15.654l1.636-.542a10.865 10.865 0 0 0 2.228-.604A7.847 7.847 0 0 0 7.994 15.8c4.368 0 7.942-3.535 7.942-7.915 0-1.5-.545-2.88-1.456-3.99a11.666 11.666 0 0 1-.951-1.378zM7.994 14.365a6.417 6.417 0 0 1-3.613-1.077c-.5-.26-.967-.577-1.396-.948l-.066-.057-1.125.372a.68.68 0 0 1-.84-.282.68.68 0 0 1-.035-.558c.28-.621.61-1.2.986-1.722a6.417 6.417 0 0 1 3.23-1.574c.264-.066.536-.1.815-.1s.551.034.815.1c.394.098.76.24 1.092.428.332.188.636.41.902.668.266.258.502.548.705.864.203.316.368.653.497 1.018a.68.68 0 0 1-.365.86c-.198.08-.415.11-.64.08a6.417 6.417 0 0 1-3.23-1.574c-.066-.066-.14-.12-.224-.16a.68.68 0 0 1-.16-.224z"/>
                             </svg>
-                            <span data-pt="WhatsApp +351 962 323 134" data-en="WhatsApp +351 962 323 134">WhatsApp +351 962 323 134</span>
+                            <span data-pt="WhatsApp +351 961 483 082" data-en="WhatsApp +351 961 483 082">WhatsApp +351 961 483 082</span>
                         </a>
                         <a href="tel:+351962323134" class="flex items-center justify-center w-full px-6 py-4 rounded-full bg-gray-800 text-white font-semibold hover:bg-gray-900 transition-all luxury-shadow">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6 mr-3">
@@ -213,7 +209,7 @@ Each vil
                             </svg>
                             <span data-pt="Ligar Agora" data-en="Call Now">Ligar Agora</span>
                         </a>
-                        <a href="mailto:sifreire@remax.pt" class="flex items-center justify-center w-full px-6 py-4 rounded-full bg-blue-600 text-white font-semibold hover:bg-blue-700 transition-all luxury-shadow">
+                        <a href="mailto:taalexandre@remax.pt" class="flex items-center justify-center w-full px-6 py-4 rounded-full bg-blue-600 text-white font-semibold hover:bg-blue-700 transition-all luxury-shadow">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6 mr-3">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.525a4.5 4.5 0 01-1.318 3.182L12 17.25l-5.432-4.818A4.5 4.5 0 014.5 7.275V6.75" />
                             </svg>
