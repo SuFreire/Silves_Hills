@@ -93,7 +93,7 @@ Each villa includes two private parking spaces, a fiber-optic internet connectio
 
             <div class="p-4">
                 <h4 class="font-playfair text-3xl font-bold text-gray-900 mb-4" data-pt="Moradia Duplex T3+1" data-en="Duplex Villa T3+1">Moradia Duplex T3+1</h4>
-                <span class="text-3xl font-bold gold-text mb-6 inline-block">1.199.999€</span>
+                <span class="text-3xl font-bold gold-text mb-6 inline-block">999.799€</span>
 
                 <ul class="grid grid-cols-2 md:grid-cols-3 gap-6 text-center mb-6">
                     <li class="flex flex-col items-center">
@@ -342,4 +342,5 @@ Each villa includes two private parking spaces, a fiber-optic internet connectio
 </body>
 </html>
 </div>
+
 
