@@ -59,15 +59,14 @@
     </section>
     <section class="py-20 px-4">
         <div class="max-w-4xl mx-auto text-center">
-            <h2 class="font-playfair text-4xl md:text-5xl font-bold gold-text mb-8 drop-shadow-lg" data-pt="Luxo e Sofisticação" data-en="Luxury and Sophistication">Luxo e Sofisticação</h2>
+            <h2 class="font-playfair text-4xl md:text-5xl font-bold gold-text mb-8 drop-shadow-lg" data-pt="Luxo e Sofisticação no Coração do Algarve" data-en="Luxury and Sophistication in the Heart of the Algarve">Luxo e Sofisticação</h2>
             <p class="text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto" data-pt="Descubra um novo conceito de viver no Silves Hills. Moradias sustentáveis projetadas com os mais altos padrões de qualidade, equipadas com piscinas aquecidas e inseridas num ambiente de tranquilidade e elegância. Cada detalhe foi pensado para proporcionar o máximo conforto e bem-estar à sua família." data-en="Discover a new concept of living at Silves Hills. Sustainable homes designed with the highest quality standards, equipped with heated pools and set in an environment of tranquility and elegance. Every detail has been thought out to provide maximum comfort and well-being for your family.">Descubra um novo conceito de viver no Silves Hills. Moradias sustentáveis projetadas com os mais altos padrões de qualidade, equipadas com piscinas aquecidas e inseridas num ambiente de tranquilidade e elegância. Cada detalhe foi pensado para proporcionar o máximo conforto e bem-estar à sua família.</p>
+            <p class="mt-8 text-lg md:text-xl text-yellow-600 leading-relaxed max-w-3xl mx-auto font-bold italic" data-pt="Descubra um novo padrão de elegância onde a tradição encontra a modernidade, criando espaços únicos que refletem o seu estilo de vida sofisticado." data-en="Discover a new standard of elegance where tradition meets modernity, creating unique spaces that reflect your sophisticated lifestyle."</p>
 <div class="max-w-4xl mx-auto text-center">
        </div>
 <section>
-   </div>
-    </section>
-<div class="max-w-4xl mx-auto text-center">
-        <h2 class="font-playfair text-4xl md:text-5xl font-bold gold-text mb-8 drop-shadow-lg" data-pt="Arquitetura Exclusiva" data-en="Exclusive Architecture">Arquitetura Exclusiva</h2>
+   
+        <h2 class="font-playfair text-4xl md:text-5xl font-bold gold-text mb-8 drop-shadow-lg mt-12" data-pt="Arquitetura Exclusiva" data-en="Exclusive Architecture">Arquitetura Exclusiva</h2>
 
         <p class="text-lg md:text-xl text-gray-700 leading-relaxed max-w-3xl mx-auto" data-pt="Silves Hills, um destino premium no Algarve. Todas as moradias têm piscina aquecida e um deck privativo. Projetada para integrar os espaços interiores e exteriores, as moradias dispõem de janelas do chão ao teto que ampliam a área de estar para o ambiente natural ao redor.
 
@@ -113,7 +112,7 @@ Each villa includes two private parking spaces, a fiber-optic internet connectio
                     </li>
                     <li class="flex flex-col items-center">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-yellow-500 mb-2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M15.182 15.182a4.5 4.5 0 01-6.364 0M21 12a9 9 0 11-18 0 9 9 0 0118 0zM9.75 9.75c0 .414-.168.75-.375.75S9 10.164 9 9.75 9.168 9 9.375 9s.375.336.375.75zm-.375 0h.008v.015h-.008V9.75zm5.625 0c0 .414-.168.75-.375.75s-.375-.336-.375-.75.168-.75.375-.75.375.336.375.75zm-.375 0h.008v.015h-.008V9.75z" />
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 18.75a60.07 60.07 0 0115.797 2.101c.727.198 1.453-.342 1.453-1.096V18.75M3.75 4.5v.75A.75.75 0 013 6h-.75m0 0v-.375c0-.621.504-1.125 1.125-1.125H20.25M2.25 6v9m18-10.5v.75c0 .414.336.75.75.75h.75m-1.5-1.5h.375c.621 0 1.125.504 1.125 1.125v9.75c0 .621-.504 1.125-1.125 1.125h-.375m1.5-1.5H21a.75.75 0 00-.75.75v.75m0 0H3.75m0 0h-.375a1.125 1.125 0 01-1.125-1.125V15m1.5 1.5v-.75A.75.75 0 003 15h-.75M15 10.5a3 3 0 11-6 0 3 3 0 016 0zm3 0h.008v.008H18V10.5zm-12 0h.008v.008H6V10.5z" />
                         </svg>
                         <span class="text-xs text-gray-600 uppercase" data-pt="Casas de Banho" data-en="Bathrooms">Casas de Banho</span>
                         <span class="font-semibold text-gray-800 text-sm">4</span>
@@ -122,7 +121,6 @@ Each villa includes two private parking spaces, a fiber-optic internet connectio
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 text-yellow-500 mb-2">
                             <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5h.007M12 15h.007M4.5 15h.007M4.5 19.5h.007M19.5 19.5h.007M10.5 7.5V4.5a2.25 2.25 0 012.25-2.25h1.5a2.25 2.25 0 012.25 2.25v3a2.25 2.25 0 01-2.25 2.25H12.75a.75.75 0 00-.75.75V15m0 0a2 2 0 100 4 2 2 0 000-4z"/>
                         </svg>
-
                         <span class="text-xs text-gray-600 uppercase" data-pt="Lote" data-en="Plot">Lote</span>
                         <span class="font-semibold text-gray-800 text-sm">483m²</span>
                     </li>
@@ -200,17 +198,17 @@ Each villa includes two private parking spaces, a fiber-optic internet connectio
                 <div>
                     <h3 class="font-playfair text-3xl font-bold gold-text mb-6 drop-shadow-lg" data-pt="Contatos" data-en="Contacts">Contatos</h3>
                     <div class="space-y-4">
-                        <a href="https://wa.me/351962323134" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center w-full px-6 py-4 rounded-full bg-green-600 text-white font-semibold hover:bg-green-700 transition-all luxury-shadow">
+                        <a href="https://wa.me/351961483082" target="_blank" rel="noopener noreferrer" class="flex items-center justify-center w-full px-6 py-4 rounded-full bg-green-600 text-white font-semibold hover:bg-green-700 transition-all luxury-shadow">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-whatsapp w-6 h-6 mr-3" viewBox="0 0 16 16">
                                 <path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .066 3.535.066 7.915c0 1.5.545 2.88 1.456 3.99A11.666 11.666 0 0 1 .157 15.654l1.636-.542a10.865 10.865 0 0 0 2.228-.604A7.847 7.847 0 0 0 7.994 15.8c4.368 0 7.942-3.535 7.942-7.915 0-1.5-.545-2.88-1.456-3.99a11.666 11.666 0 0 1-.951-1.378zM7.994 14.365a6.417 6.417 0 0 1-3.613-1.077c-.5-.26-.967-.577-1.396-.948l-.066-.057-1.125.372a.68.68 0 0 1-.84-.282.68.68 0 0 1-.035-.558c.28-.621.61-1.2.986-1.722a6.417 6.417 0 0 1 3.23-1.574c.264-.066.536-.1.815-.1s.551.034.815.1c.394.098.76.24 1.092.428.332.188.636.41.902.668.266.258.502.548.705.864.203.316.368.653.497 1.018a.68.68 0 0 1-.365.86c-.198.08-.415.11-.64.08a6.417 6.417 0 0 1-3.23-1.574c-.066-.066-.14-.12-.224-.16a.68.68 0 0 1-.16-.224z"/>
                             </svg>
-                            <span data-pt="WhatsApp +351 961 483 082" data-en="WhatsApp +351 961 483 082">WhatsApp +351 961 483 082</span>
+                            <span data-pt="WhatsApp" data-en="WhatsApp">WhatsApp</span>
                         </a>
-                        <a href="tel:+351 961 483 082" class="flex items-center justify-center w-full px-6 py-4 rounded-full bg-gray-800 text-white font-semibold hover:bg-gray-900 transition-all luxury-shadow">
+                        <a href="tel:+351961483082" class="flex items-center justify-center w-full px-6 py-4 rounded-full bg-gray-800 text-white font-semibold hover:bg-gray-900 transition-all luxury-shadow">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6 mr-3">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75a2.25 2.25 0 012.25-2.25h14.25a2.25 2.25 0 012.25 2.25v10.5a2.25 2.25 0 01-2.25 2.25H4.5a2.25 2.25 0 01-2.25-2.25V6.75zM4.5 9h15M12 18V6" />
                             </svg>
-                            <span data-pt="Ligar Agora +351 961 483 082" data-en="Call Now +351 961 483 082">Ligar Agora</span>
+                            <span data-pt="Ligar Agora" data-en="Call Now">Ligar Agora</span>
                         </a>
                         <a href="mailto:taalexandre@remax.pt" class="flex items-center justify-center w-full px-6 py-4 rounded-full bg-blue-600 text-white font-semibold hover:bg-blue-700 transition-all luxury-shadow">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6 mr-3">
@@ -279,7 +277,8 @@ Each villa includes two private parking spaces, a fiber-optic internet connectio
                 'Location': 'Localização',
                 'Contacts': 'Contatos',
                 'WhatsApp +351 961 483 082': 'WhatsApp +351 961 483 082',
-                'Call Now +351 961 483 082': 'Ligar Agora +351 961 483 082',
+                'Call Now': 'Ligar Agora',
+                'Ligar Agora +351 961 483 082': 'Call Now +351 961 483 082',
                 'Luxury villas in the heart of Algarve': 'Moradias de luxo no coração do Algarve'
             },
             en: {
@@ -343,3 +342,4 @@ Each villa includes two private parking spaces, a fiber-optic internet connectio
 </body>
 </html>
 </div>
+
